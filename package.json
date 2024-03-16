@@ -1,0 +1,31 @@
+{
+  "name": "bmi-calcu",
+  "version": "1.0.0",
+  "description": "npm package to calculate BMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boskomp/bmi-calcu.git"
+  },
+  "keywords": [
+    "bmi",
+    "calculate",
+    "calc-bmi",
+    "bmi-calc"
+  ],
+  "author": "boskomp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boskomp/bmi-calcu/issues"
+  },
+  "homepage": "https://github.com/boskomp/bmi-calcu#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "@faker-js/faker": "^8.4.1",
+    "12to24-cvt": "^1.0.0",
+    "factorial-calc": "^1.0.0"
+  }
+}
